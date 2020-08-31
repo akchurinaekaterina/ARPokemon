@@ -6,6 +6,9 @@
   "resources" : [
     {
       "filename" : "galashoes.arreferenceimage"
+    },
+    {
+      "filename" : "sberbank.arreferenceimage"
     }
   ]
 }
